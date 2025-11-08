@@ -13,3 +13,9 @@ Made a schematic for the USB hub on easyeda. Added 3 USB connectors and 1 micro 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUyMywicHVyIjoiYmxvYl9pZCJ9fQ==--5ed246f52fcfdae9c2d099ef0b7d74353e5ea343/image.png)
   
 
+## 11/9/2025 - Routed PCB  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUzNywicHVyIjoiYmxvYl9pZCJ9fQ==--e8fd477c439d95a94e84d82df538a70de3c9766f/image.png)
+
+Designed the PCB and made all the appropriate connections. Put my name on it, a link to some socials, some text, hackclub branding and designed the board.  
+
