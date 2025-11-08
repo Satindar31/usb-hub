@@ -1,0 +1,7 @@
+﻿Name	Designator	Quantity	Manufacturer Part	Manufacturer	Supplier	Price	link
+"10uF"	"CAPACITOR,C2,C3,C4,C5"	"5"	"CL10A106KP8NNNC"	"SAMSUNG(三星)"	"LCSC"	"0.006"	"https://item.szlcsc.com/362304.html"
+"NSR0320MW2T1G"	"DIODE"	"1"	"NSR0320MW2T1G"	"onsemi(安森美)"	"LCSC"	"0.045"	"https://item.szlcsc.com/295156.html"
+"SL2.1A"	"MAIN-BOARD"	"1"	"SL2.1A"	"CoreChips(和芯润德)"	"LCSC"	"0.226"	"https://item.szlcsc.com/391677.html"
+"U-G-04DD-W-01"	"MAIN-USB"	"1"	"U-G-O4DD-W-1"	"韩国韩荣"	"LCSC"	"0.089"	"https://item.szlcsc.com/203308.html"
+"micro USBFemale"	"MICRO-USB"	"1"	"920-E52A2021S10100"	"精拓金"	"LCSC"	"0.073"	"https://item.szlcsc.com/10961.html"
+"USB-AF-90-14.4X13.6-H7.0-DIP"	"USB-1,USB-2"	"2"	"903-131A1011D10100"	"精拓金"	"LCSC"	"0.048"	"https://item.szlcsc.com/47411.html"
