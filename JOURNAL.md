@@ -13,9 +13,14 @@ Made a schematic for the USB hub on easyeda. Added 3 USB connectors and 1 micro 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUyMywicHVyIjoiYmxvYl9pZCJ9fQ==--5ed246f52fcfdae9c2d099ef0b7d74353e5ea343/image.png)
   
 
-## 11/9/2025 - Routed PCB  
+## 11/9/2025 12 AM - Routed PCB  
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUzNywicHVyIjoiYmxvYl9pZCJ9fQ==--e8fd477c439d95a94e84d82df538a70de3c9766f/image.png)
 
 Designed the PCB and made all the appropriate connections. Put my name on it, a link to some socials, some text, hackclub branding and designed the board.  
+
+## 11/9/2025 1 AM - Designed banner  
+
+Quickly designed a banner online. Font used was DejaVu Sans Bold. For the image, wanted to initially put one from the easyeda preview but ended up going for the exported one since I feel it looked cooler.![usb_hub_banner](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--873e2794cb3ac862624fd9a290cdb25379ecef56/usb_hub_banner.png)
+  
 
