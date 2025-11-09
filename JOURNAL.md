@@ -24,3 +24,8 @@ Designed the PCB and made all the appropriate connections. Put my name on it, a 
 Quickly designed a banner online. Font used was DejaVu Sans Bold. For the image, wanted to initially put one from the easyeda preview but ended up going for the exported one since I feel it looked cooler.![usb_hub_banner](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--873e2794cb3ac862624fd9a290cdb25379ecef56/usb_hub_banner.png)
   
 
+## 11/9/2025 10 PM - Remade board  
+
+Started the board over from scratch since I felt it was too big before. Made it literally as compact as possible while still being usable and looking decent-ish. Also remade banner![top](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc5MywicHVyIjoiYmxvYl9pZCJ9fQ==--ac6794b8629a5c5a74f3dce0047aa10c78d518cb/top.png)
+  
+
